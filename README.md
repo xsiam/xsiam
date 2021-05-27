@@ -19,16 +19,16 @@ Lorem Ipsum è un testo segnaposto utilizzato nel settore della tipografia e del
 
 ### Long story short...
 
-:computer: when I was 16 I created my first website <br>
-:video_game: at the end of my first year at UniFi, I created my first videogame in C++ <br>
-:hammer_and_wrench: I took the Algorithms and Data Structures course, which turned out to be my favourite class of the Bachelor <br>
-:hearts: I fell in love with Artificial Intelligence after working on Perceptron ... <br>
-:mortar_board: ... however, I wrote a thesis about IoT mutual authentication <br>
-:airplane: I moved to Milan and started studying at PoliMi, focusing on Machine Learning and Data Science <br>
-:bear: I classified airplanes as bears at first, but then I got it right with neural nets <br>
-:musical_note: I investigated global music tastes by visualizing Spotify data <br>
-:3rd_place_medal: I placed 3rd in the PoliMi RecSys Challenge and joined the PoliMi team for the International ACM RecSys Challenge <br>
-:fire: Currently I am working on a thesis in the field of Reinforcement Learning
+:computer: when I was 16 I created my **first website** <br>
+:video_game: at the end of my first year at UniFi, I created my **first videogame** in C++ <br>
+:hammer_and_wrench: I took the **Algorithms and Data Structures** course, which turned out to be my favourite class of the Bachelor <br>
+:hearts: I fell in love with Artificial Intelligence after working on **Perceptron** ... <br>
+:mortar_board: ... however, I wrote a thesis about **IoT mutual authentication** <br>
+:airplane: I moved to Milan and started studying at PoliMi, focusing on **Machine Learning** and **Data Science** <br>
+:bear: I classified airplanes as bears at first, but then I got it right with **neural nets** <br>
+:musical_note: I investigated global music tastes by **visualizing Spotify data** <br>
+:3rd_place_medal: I placed 3rd in the PoliMi RecSys Challenge and joined the PoliMi team for the **International ACM RecSys Challenge** <br>
+:fire: Currently I am working on a thesis in the field of **Reinforcement Learning**
 
 <p align="center">
   <a href="">
