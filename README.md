@@ -24,14 +24,14 @@ I am Samuele and I am a student at Politecnico di Milano. I am currently writing
 
 * :computer: when I was 16 I created my **first website**
 * :video_game: at the end of my first year at UniFi, I created my **first videogame** in C++
-* :hammer_and_wrench: I took the **Algorithms and Data Structures** course, which turned out to be my favourite class of the Bachelor
+* :hammer_and_wrench: **Algorithms and Data Structures** blew my mind
 * :hearts: I fell in love with Artificial Intelligence after working on **Perceptron** ... 
-* :mortar_board: ... however, I wrote a thesis about **IoT mutual authentication** 
+* :mortar_board: ... however, my Bachelor thesis was about **IoT mutual authentication** 
 * :airplane: I moved to Milan and started studying at PoliMi, focusing on **Machine Learning** and **Data Science**
 * :bear: I classified airplanes as bears at first, but then I got it right with **Neural Nets**
-* :musical_note: I investigated global music tastes by **visualizing Spotify data**
+* :musical_note: I investigated global music tastes **visualizing Spotify data**
 * :3rd_place_medal: I placed 3rd in the PoliMi RecSys Challenge and joined the PoliMi team for the **International ACM RecSys Challenge**
-* :fire: Currently I am working on a thesis in the field of **Reinforcement Learning**
+* :fire: Currently I am working on a thesis focused on **Reinforcement Learning**
 
 ### My tools
 <img align="left" alt="python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"/>
@@ -46,3 +46,12 @@ I am Samuele and I am a student at Politecnico di Milano. I am currently writing
 <img align="left" alt="plotly" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/2560px-LaTeX_logo.svg.png"/>
 <img align="left" alt="plotly" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/pycharm.svg"/>
 <img align="left" alt="plotly" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudiocode.svg"/>
+
+<br>
+
+### About me
+
+* :books: Best books of the year: _Atomic Habits_ and _12 Rules for Life_
+* :film_projector: Ex tv series addicted, Breaking Bad is my all time favourite
+* :muscle: I am a black belt in Karate
+* :zap: Fun fact: 
