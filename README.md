@@ -3,8 +3,6 @@
 [![Kaggle](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.kaggle.com/c/ann-and-dl-image-segmentation)
 [![Dataset](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](https://www.kaggle.com/c/17695/download-all)
 
-<br> 
-
 <!--
 **xsiam/xsiam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -40,21 +38,3 @@ I am Samuele and I am a student at Politecnico di Milano. I am currently writing
 <img align="left" alt="jupyter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jupyter.svg"/>
 <img align="left" alt="keras" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keras.svg"/>
 <img align="left" alt="plotly" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/plotly.svg"/>
-
- 
-<br>
-
-<p align="center">
-  
-  <a href="">
-    <img alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="margin-right: 100cm:" />
-  </a>
-  &emsp;
-  <a href="">
-    <img alt="telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-  </a>
-  &emsp;
-  <a href="">
-    <img alt="mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
-  </a>
-</p>
