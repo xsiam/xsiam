@@ -38,5 +38,11 @@ I am Samuele and I am a student at Politecnico di Milano. I am currently writing
 <img align="left" alt="jupyter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jupyter.svg"/>
 <img align="left" alt="keras" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keras.svg"/>
 <img align="left" alt="keras" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/scikit-learn.svg"/>
+<img align="left" alt="keras" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/numpy.svg"/>
+<img align="left" alt="keras" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pandas.svg"/>
 <img align="left" alt="plotly" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/plotly.svg"/>
 <img align="left" alt="plotly" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/cplusplus.svg"/>
+<img align="left" alt="plotly" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg"/>
+<img align="left" alt="plotly" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/2560px-LaTeX_logo.svg.png"/>
+<img align="left" alt="plotly" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/pycharm.svg"/>
+<img align="left" alt="plotly" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudiocode.svg"/>
