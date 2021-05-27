@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+[![Kaggle](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.kaggle.com/c/ann-and-dl-image-segmentation)
+[![Dataset](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](https://www.kaggle.com/c/17695/download-all)
+
+<br> 
+
 <!--
 **xsiam/xsiam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
