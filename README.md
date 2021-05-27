@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Samuele and I am a student at Politecnico di Milano. I am currently writing my master thesis and close to graduate in Computer Science and Engineering, while in the past I got a Bachelor degree in Computer Science at Università degli Studi di Firenze. Over the last few years, I have dedicated my time to learning everything I could about Machine Learning and Data Science, working on many projects.
+I am Samuele and I am a student at Politecnico di Milano. I am currently writing my master thesis and I am close to graduate in Computer Science and Engineering. Over the last few years, I have dedicated my time to learning everything I could about Machine Learning and Data Science, working on many projects.
 
 ### Long story short...
 
