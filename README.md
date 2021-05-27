@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Samuele 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/metasamuele/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:metasamuele@gmail.com)
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Samuele and I am a student at Politecnico di Milano. I am currently writing my Master thesis and I am close to graduate in Computer Science and Engineering. Over the last few years, I have dedicated my time to learn everything I could about Machine Learning and Data Science, working on many projects.
+I am a student of Computer Science and Engineering at Politecnico di Milano and I am currently writing my Master thesis. Over the last few years, I have dedicated my time to learn everything I could about Machine Learning and Data Science, working on many projects.
 
 ### Long story short...
 
