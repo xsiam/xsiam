@@ -29,7 +29,7 @@ I am Samuele and I am a student at Politecnico di Milano. I am currently writing
 * :hearts: I fell in love with Artificial Intelligence after working on **Perceptron** ... 
 * :mortar_board: ... however, my Bachelor thesis was about **IoT mutual authentication** 
 * :airplane: I moved to Milan and started studying at PoliMi, focusing on **Machine Learning** and **Data Science**
-* :bear: I classified airplanes as bears at first, but then I got it right with **Neural Nets**
+* :bear: my first **Neural Network** classified an airplane as a bear
 * :musical_note: I investigated global music tastes **visualizing Spotify data**
 * :3rd_place_medal: I placed 3rd in the PoliMi RecSys Challenge and joined the PoliMi team for the **International ACM RecSys Challenge**
 * :fire: &nbsp;currently I am working on a thesis focused on **Reinforcement Learning**
