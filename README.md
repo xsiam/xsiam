@@ -30,7 +30,10 @@ Lorem Ipsum è un testo segnaposto utilizzato nel settore della tipografia e del
 :3rd_place_medal: I placed 3rd in the PoliMi RecSys Challenge and joined the PoliMi team for the **International ACM RecSys Challenge** <br>
 :fire: Currently I am working on a thesis in the field of **Reinforcement Learning**
 
+<br>
+
 <p align="center">
+  
   <a href="">
     <img alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="margin-right: 100cm:" />
   </a>
