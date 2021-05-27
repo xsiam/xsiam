@@ -43,6 +43,8 @@ I am a student of Computer Science and Engineering at Politecnico di Milano and 
 <img align="left" alt="pandas" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pandas.svg"/>
 <img align="left" alt="plotly" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/plotly.svg"/>
 <img align="left" alt="cpp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/cplusplus.svg"/>
+<img align="left" alt="html" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg"/>
+<img align="left" alt="javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg"/>
 <img align="left" alt="github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg"/>
 <img align="left" alt="latex" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/2560px-LaTeX_logo.svg.png"/>
 <img align="left" alt="pycharm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/pycharm.svg"/>
