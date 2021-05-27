@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![Kaggle](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.kaggle.com/c/ann-and-dl-image-segmentation)
-[![Dataset](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](https://www.kaggle.com/c/17695/download-all)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.kaggle.com/c/ann-and-dl-image-segmentation)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](https://www.kaggle.com/c/17695/download-all)
 
 <!--
 **xsiam/xsiam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Samuele and I am a student at Politecnico di Milano. I am currently writing my master thesis and I am close to graduate in Computer Science and Engineering. Over the last few years, I have dedicated my time to learning everything I could about Machine Learning and Data Science, working on many projects.
+I am Samuele and I am a student at Politecnico di Milano. I am currently writing my Master thesis and I am close to graduate in Computer Science and Engineering. Over the last few years, I have dedicated my time to learn everything I could about Machine Learning and Data Science, working on many projects.
 
 ### Long story short...
 
