@@ -23,7 +23,7 @@ I am Samuele and I am a student at Politecnico di Milano. I am currently writing
 ### Long story short...
 
 * :computer: when I was 16 I created my **first website**
-* :video_game: at the end of my first year at UniFi, I created my **first videogame** in C++
+* :video_game: at the end of my first year at UniFi, I created a **videogame** in C++
 * :hammer_and_wrench: **Algorithms and Data Structures** course blew my mind
 * :black_nib: I contributed to _Internet. Prospettive, archittetture e applicazioni_, F.Chiti, Esculapio, 2019
 * :hearts: I fell in love with Artificial Intelligence after working on **Perceptron** ... 
