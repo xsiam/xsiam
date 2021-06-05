@@ -57,4 +57,4 @@ I am a student of Computer Science and Engineering at Politecnico di Milano and 
 * :books: Best books of the year: _Atomic Habits_ and _12 Rules for Life_
 * :film_projector: Ex tv series addicted, Breaking Bad is my all time favourite
 * :muscle: I am a black belt in Karate
-* :zap: Fun fact: at the beginning I was not planning to follow the Artificial Intelligence course
+* :zap: Fun fact: at the beginning I was not planning to attend Artificial Intelligence classes
